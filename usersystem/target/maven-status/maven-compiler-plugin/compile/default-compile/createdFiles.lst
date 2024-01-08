@@ -1,0 +1,6 @@
+com\mwtassignment\usersystem\exception\UserNotFoundAdvice.class
+com\mwtassignment\usersystem\repository\UserRepository.class
+com\mwtassignment\usersystem\model\User.class
+com\mwtassignment\usersystem\exception\UserNotFoundException.class
+com\mwtassignment\usersystem\UsersystemApplication.class
+com\mwtassignment\usersystem\controller\UserController.class
